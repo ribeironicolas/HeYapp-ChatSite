@@ -9,8 +9,8 @@
 - [Jorge David](https://github.com/JorgeDC99)
 - [Bruno Nunes](https://github.com/BrunoImanaka)
 - [Gustavo Moreno](https://github.com/Gsmoreno)
-- [João Santos](https://github.com/devjoaosantos)
+- [João Santos](https://github.com/Devjoaofarias)
 - [Lucas Rodrigues](https://github.com/lucasryg)
-- [Larissa Navarro](https://github.com/Navarrocrn).
+- [Larissa Navarro](https://github.com/Navarrocrn)
 
 HeYapp é um projeto disciplinar desenvolvido pelos alunos acima da Universidade Cidade de São Paulo com o intuito de criar um site de mensagens instantâneas para smartphones e computadores.
