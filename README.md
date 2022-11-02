@@ -1,5 +1,5 @@
 # HeyYapp 
-![](https://ribeironicolas.github.io/HeYapp-ChatSite/icon.png = 250x)
+![](https://ribeironicolas.github.io/HeYapp-ChatSite/icon.png =250x)
 
 ## Teste aqui -> https://ribeironicolas.github.io/HeYapp-ChatSite/
 ### Projeto desenvolvido pelos alunos 
